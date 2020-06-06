@@ -3,4 +3,16 @@
 
 This is a simple Chatbot which performs basic tasks such as alarm,remainder,basic question and answers, wikipedia search using web scrap, google search, weather and finally google maps. This is developed to test my python skills.
 
-Pre-requisites
+Pre-Requisites
+
+   1) Pycharm
+   
+ Installing
+  
+  pip install win10toast
+  pip install webbrowser
+  pip install wikipedia
+  pip install requests
+  pip install win10toast
+  pip install BeautifulSoup4
+  
