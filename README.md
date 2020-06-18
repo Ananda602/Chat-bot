@@ -56,7 +56,7 @@ To get today's news or headlines we requires
 
 `pip install newsapi-python`
 
-#Features
+## Features
 
 ```
 1. Google search
