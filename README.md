@@ -11,7 +11,7 @@ Google colab cannot to utilized to run this chatbot because it will not recogniz
    
 # Installing
 For recognizing speech or to active Microphone install 
-'pip install SpeechRecognition'
+`pip install SpeechRecognition`
 
 Pyaudio provides python bindings for portaudio, the cross-platform audio I/o library.
 > Pip install Pyaudio
