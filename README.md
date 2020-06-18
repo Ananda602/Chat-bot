@@ -11,30 +11,43 @@ Google colab cannot to utilized to run this chatbot because it will not recogniz
    
 # Installing
 For recognizing speech or to active Microphone install 
+
 `pip install SpeechRecognition`
 
 Pyaudio provides python bindings for portaudio, the cross-platform audio I/o library.
-> Pip install Pyaudio
-   If above command throws error, then use
-   > pip install pipwin
-   > pipwin install Pyaudio
+
+`Pip install Pyaudio`
    
+If above command throws error, then use
+
+``
+pip install pipwin
+pipwin install Pyaudio
+``
+
 Then, converting the text to speech
-> pip install gTTS
+
+`pip install gTTS`
 
 For notification message you to have to use toast
-> pip install win10toast
+
+`pip install win10toast`
 
 For webscraping, install
 
->pip install nltk
->pip install BeautifulSoup
+``
+pip install nltk
+pip install BeautifulSoup
+``
 
 In alarm I want to play some music, so that it could be realistic. I used playsound function which allows you to play a sound in a loop
-> pip install Playsound
+
+`pip install Playsound`
 
 TO update or to know the live scores for games such as cricket, football, volleyball.
->pip install sports.py
+
+`pip install sports.py`
 
 For wikipedia search, install
->pip install wikipedia
+
+`pip install wikipedia`
